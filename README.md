@@ -2,6 +2,8 @@
 An attempt to broaden my horizons!</br>
 
 ## Data Camp
+### Google Data Analyst</br>
+
 ### Machine Learning</br>
 
 <img src="Screenahots/Supervised Learning.png?raw=true"
