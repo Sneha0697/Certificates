@@ -4,6 +4,10 @@ An attempt to broaden my horizons!</br>
 ## Data Camp
 ### Google Data Analyst</br>
 
+<img src="Screenahots/Google Analyst.png?raw=true"
+     width="500" 
+     height="400"/></br></br>
+
 ### Machine Learning</br>
 
 <img src="Screenahots/Supervised Learning.png?raw=true"
